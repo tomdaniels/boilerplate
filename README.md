@@ -1,6 +1,6 @@
 # v1-boilerplate
 
-Simple boilerplate for client side apps, as opposed to my [other boilerplate]](https://github.com/tomdaniels/boiler-plate) with Redux, Firebase DB, Auth intergration and testing suits. 
+Simple boilerplate for client side apps, as opposed to my [other boilerplate](https://github.com/tomdaniels/boiler-plate) with Redux, Firebase DB, Auth intergration and testing suits. 
 
 ## Out of the box? 
 
