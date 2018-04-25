@@ -11,7 +11,7 @@ Simple boilerplate for client side apps, as opposed to my [other boilerplate](ht
 
 ## How to use it
 
-For the time being, you need to clone the repo, and manually adjust the files. To get it runnning as is you can simply run the following commands: 
+For the time being, you need to clone the repo and manually adjust the files. To get it runnning as is you can simply run the following commands: 
 ```bash
 git clone git@github.com:tomdaniels/v1-boilerplate.git && cd v1-boilerplate
 yarn install
