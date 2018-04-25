@@ -9,7 +9,7 @@ Simple boilerplate for client side apps, as opposed to my other boilerplate with
 - Has express server.js file for quick deployment once ready.
 - Node server is set up through webpack already. 
 
-## TODO: 
+### TODO: 
 
 > Automate setup through command line. 
 > Publish to npm..? 
