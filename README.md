@@ -18,10 +18,10 @@ yarn install
 yarn watch
 ```
 
-Then you just need to start adjusting the [app.js](https://github.com/tomdaniels/v1-boilerplate/blob/master/package.json#L2) file, from the components directory.
+Then you just need to start adjusting the [app.js](https://github.com/tomdaniels/v1-boilerplate/blob/master/src/components/app.js) file, from the components directory.
 
-> It's recommended you duplicate the entire directory `rm -rf .git` and,
-  adjust [package.json name]() to whatever you will be calling your app. 
+> It's recommended you duplicate the entire directory `rm -rf .git` and
+  adjust [package.json name](https://github.com/tomdaniels/v1-boilerplate/blob/master/package.json#L2) to whatever you will be calling your app. 
 
 ### TODO: 
 
