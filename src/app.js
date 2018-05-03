@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/app';
+import Landing from './components/landing.js';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-ReactDOM.render(<App />, document.getElementById('app'));
-
+ReactDOM.render(<Landing />, document.getElementById('app'));
