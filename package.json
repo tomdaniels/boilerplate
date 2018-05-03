@@ -1,8 +1,8 @@
 {
-  "name": "react-boilerplate",
+  "name": "v1-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:tomdaniels/expensify.git",
+  "repository": "git@github.com:tomdaniels/v1-boilerplate.git",
   "author": "Tom Daniels",
   "license": "MIT",
   "scripts": {
