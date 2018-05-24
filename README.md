@@ -20,8 +20,15 @@ yarn watch
 
 Then you just need to start adjusting the [app.js](https://github.com/tomdaniels/v1-boilerplate/blob/master/src/components/app.js) file, from the components directory.
 
-> I recommended you duplicate the entire directory and run `rm -rf .git` then change the app [name](https://github.com/tomdaniels/v1-boilerplate/blob/master/package.json#L2)
+_Before committing to a new repo make sure you run `rm -rf .git` and change the app [name](https://github.com/tomdaniels/v1-boilerplate/blob/master/package.json#L2)_
 
-### TODO:
+## Testing?
 
-> Automate setup through command line? 
+Global config [settings](https://github.com/tomdaniels/v1-boilerplate/blob/master/test/globals.js) are in place.
+
+- Mocha
+- Chai
+- Enzyme
+
+chai-enzyme package also set up so you can check for more simple things like":
+`to.be.present()` where needed. 
