@@ -30,5 +30,5 @@ Global config [settings](https://github.com/tomdaniels/v1-boilerplate/blob/maste
 - Chai
 - Enzyme
 
-chai-enzyme package also set up so you can check for more simple things like":
+chai-enzyme package also set up so you can check for more simple things like:
 `to.be.present()` where needed. 
