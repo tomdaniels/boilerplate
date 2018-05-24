@@ -1,6 +1,6 @@
 # react-boilerplate
 
-Simple boilerplate for client side apps, as opposed to my [other boilerplate](https://github.com/tomdaniels/boiler-plate) with Redux, Firebase DB, Auth intergration and testing suits.
+A homemade boilerplate for React applications.
 
 ## Out of the box?
 
