@@ -18,7 +18,7 @@ yarn install
 yarn watch
 ```
 
-Then you just need to start adjusting the [app.js](https://github.com/tomdaniels/boilerplate/blob/master/src/components/app.js) file, from the components directory.
+Then you just need to start adjusting the [landing.js](https://github.com/tomdaniels/boilerplate/blob/master/src/components/landing.js) file, from the components directory.
 
 _Before committing to a new repo make sure you run `rm -rf .git` and change the app [name](https://github.com/tomdaniels/boilerplate/blob/master/package.json#L2)_
 
