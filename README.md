@@ -1,4 +1,4 @@
-# v1-boilerplate
+# react-boilerplate
 
 Simple boilerplate for client side apps, as opposed to my [other boilerplate](https://github.com/tomdaniels/boiler-plate) with Redux, Firebase DB, Auth intergration and testing suits.
 
@@ -13,18 +13,18 @@ Simple boilerplate for client side apps, as opposed to my [other boilerplate](ht
 
 For the time being, you need to clone the repo and manually adjust the files. To get it runnning as is you can simply run the following commands:
 ```bash
-git clone git@github.com:tomdaniels/v1-boilerplate.git && cd v1-boilerplate
+git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
 yarn install
 yarn watch
 ```
 
-Then you just need to start adjusting the [app.js](https://github.com/tomdaniels/v1-boilerplate/blob/master/src/components/app.js) file, from the components directory.
+Then you just need to start adjusting the [landing.js](https://github.com/tomdaniels/react-boilerplate/blob/master/src/components/landing.js) file, from the components directory.
 
-_Before committing to a new repo make sure you run `rm -rf .git` and change the app [name](https://github.com/tomdaniels/v1-boilerplate/blob/master/package.json#L2)_
+_Before committing to a new repo make sure you run `rm -rf .git` and change the app [name](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L2)_
 
 ## Testing?
 
-Global config [settings](https://github.com/tomdaniels/v1-boilerplate/blob/master/test/globals.js) are in place.
+Global config [settings](https://github.com/tomdaniels/react-boilerplate/blob/master/test/globals.js) are in place.
 
 - Mocha
 - Chai
