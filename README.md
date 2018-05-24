@@ -22,6 +22,8 @@ Then you just need to start adjusting the [landing.js](https://github.com/tomdan
 
 _Before committing to a new repo make sure you run `rm -rf .git` and change the app [name](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L2)_
 
+_worth while removing the [repository](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) until you can replace it with yours!_
+
 ## Testing?
 
 Global config [settings](https://github.com/tomdaniels/react-boilerplate/blob/master/test/globals.js) are in place.
