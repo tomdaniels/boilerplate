@@ -13,7 +13,7 @@ Simple boilerplate for client side apps, as opposed to my [other boilerplate](ht
 
 For the time being, you need to clone the repo and manually adjust the files. To get it runnning as is you can simply run the following commands:
 ```bash
-git clone git@github.com:tomdaniels/boilerplate.git && cd boilerplate
+git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
 yarn install
 yarn watch
 ```
