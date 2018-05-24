@@ -1,8 +1,8 @@
 {
-  "name": "v1-boilerplate",
+  "name": "boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:tomdaniels/v1-boilerplate.git",
+  "repository": "git@github.com:tomdaniels/boilerplate.git",
   "author": "Tom Daniels",
   "license": "MIT",
   "scripts": {
