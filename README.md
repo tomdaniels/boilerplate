@@ -18,11 +18,14 @@ yarn install
 yarn watch
 ```
 
-Then you just need to start adjusting the [landing.js](https://github.com/tomdaniels/react-boilerplate/blob/master/src/components/landing.js) file, from the components directory.
 
-_Before committing to a new repo make sure you run `rm -rf .git` and change the app [name](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L2)_
 
-_worth while removing the [repository](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) until you can replace it with yours!_
+1. Rename the directory within your local files (_instead of 'react-boilerplate'_)
+2. `cd` into your new-file and make it your own (`rm -rf .git`)
+3. Change the [app name](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L2) and [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) in package.json
+4. Start coding in [landing.js](https://github.com/tomdaniels/react-boilerplate/blob/master/src/components/landing.js).
+
+_maybe 5: I don't think there is any harm in not doing this, but if you create a repository update the [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) again. It doesn't happen automatically._ 
 
 ## Testing?
 
