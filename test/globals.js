@@ -11,7 +11,7 @@ enzyme.configure({
 global.React = React;
 global.chai = chai;
 
-global.shallow = enzyme.shallow;
+global.enzyme = enzyme;
 global.expect = chai.expect;
 global.should = chai.should();
 

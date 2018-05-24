@@ -2,6 +2,8 @@ import Landing from '../../src/components/landing';
 
 let wrapper;
 
+const shallow = enzyme.shallow;
+
 beforeEach(() => {
   wrapper = shallow(<Landing />);
 });
