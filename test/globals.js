@@ -9,9 +9,10 @@ enzyme.configure({
 });
 
 global.React = React;
+global.enzyme = enzyme;
 global.chai = chai;
 
-global.enzyme = enzyme;
+
 global.expect = chai.expect;
 global.should = chai.should();
 
