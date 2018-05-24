@@ -8,6 +8,6 @@ beforeEach(() => {
 
 describe('landing.js', () => {
   it('should render the component', () => {
-    expect(wrapper.find('.styles')).to.have.length(1);
+    expect(wrapper.find('.styles')).to.be.present();
   });
 });
