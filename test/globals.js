@@ -9,3 +9,4 @@ enzyme.configure({
 global.shallow = enzyme.shallow;
 global.expect = chai.expect;
 global.should = chai.should();
+global.React = require('react');
