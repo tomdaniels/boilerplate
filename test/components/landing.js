@@ -1,4 +1,4 @@
-import Landing from '../../src/components/landing';
+import Landing from '../../src/js/components/landing';
 
 const shallow = enzyme.shallow;
 
