@@ -12,7 +12,7 @@
     "build:prod": "webpack -p --env production",
     "dev-server": "webpack-dev-server",
     "watch": "webpack-dev-server",
-    "test": "mocha",
+    "test": "nyc mocha",
     "test-watch": "jest --config=jest.config.json"
   },
   "dependencies": {
