@@ -15,8 +15,8 @@ A homemade boilerplate for React applications.
 │   ├── js
 │   └── scss
 ├── test
-    ├── components
-    │   └── landing.js
+│   ├── components
+│   │   └── landing.js
 │   ├── globals.js
 │   └── mocha.opts
 ├── .babelrc
