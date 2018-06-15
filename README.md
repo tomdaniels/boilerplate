@@ -50,7 +50,7 @@ A homemade boilerplate for React applications.
 
 ## How to use it
 
-Install the repo on your maschine:
+Install the repo on your machine:
 ```bash
 npm i td-react-boilerplate
 ```
