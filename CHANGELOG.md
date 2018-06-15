@@ -6,4 +6,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
 ### Added
-- Created fe-co-test
+- Changelog.md
+- Initial release
