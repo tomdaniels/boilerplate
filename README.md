@@ -11,9 +11,27 @@ A homemade boilerplate for React applications.
 
 ```
 .
+├── public
+│   ├── dist
+│   │   └── // webpack bundled code
+│   ├── images
+│   │   └── // static images
+│   └── index.html
+├── server
+│   └── server.js
 ├── src
 │   ├── js
+│   │   ├── components
+│   │   │   └── landing.js
+│   │   └── app.js
 │   └── scss
+│       ├── general
+│       │    ├── general.js
+│       │    └── settings.scss
+│       ├── partials
+│       │   ├── // component styles go here
+│       │   └── landing.js
+│       └── styles.scss
 ├── test
 │   ├── components
 │   │   └── landing.js
