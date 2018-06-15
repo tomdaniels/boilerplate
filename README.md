@@ -9,6 +9,26 @@ A homemade boilerplate for React applications.
 - Has express server.js file for quick deployment once ready.
 - Node server is set up through webpack already.
 
+```
+.
+├── src
+│   ├── js
+│   └── scss
+├── test
+    ├── components
+    │   └── landing.js
+│   ├── globals.js
+│   └── mocha.opts
+├── .babelrc
+├── .editorconfig
+├── .gitignore
+├── package.json
+├── PULL_REQUEST_TEMPLATE.md
+├── README.md
+├── webpack.config.js
+└── yarn.lock
+```
+
 ## How to use it
 
 For the time being, you need to clone the repo and manually adjust the files. To get it runnning as is you can simply run the following commands:
@@ -25,7 +45,7 @@ yarn watch
 3. Change the [app name](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L2) and [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) in package.json
 4. Start coding in [landing.js](https://github.com/tomdaniels/react-boilerplate/blob/master/src/components/landing.js).
 
-_maybe 5: I don't think there is any harm in not doing this, but if you create a repository update the [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) again. It doesn't happen automatically._ 
+_maybe 5: I don't think there is any harm in not doing this, but if you create a repository update the [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) again. It doesn't happen automatically._
 
 ## Testing?
 
@@ -36,4 +56,4 @@ Global config [settings](https://github.com/tomdaniels/react-boilerplate/blob/ma
 - Enzyme
 
 chai-enzyme package also set up so you can check for more simple things like:
-`to.be.present()` where needed. 
+`to.be.present()` where needed.
