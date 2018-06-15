@@ -15,5 +15,6 @@ global.chai = chai;
 
 global.expect = chai.expect;
 global.should = chai.should();
+global.shallow = enzyme.shallow;
 
 global.chai.use(chaiEnzyme());
