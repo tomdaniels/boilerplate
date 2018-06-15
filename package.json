@@ -11,6 +11,7 @@
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
     "dev-server": "webpack-dev-server",
+    "version": "version-changelog CHANGELOG.md && changelog-verify CHANGELOG.md && git add CHANGELOG.md",
     "watch": "webpack-dev-server",
     "test": "nyc mocha",
     "test-watch": "jest --config=jest.config.json"
@@ -42,6 +43,7 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "chai-enzyme": "^1.0.0-beta.0",
+    "changelog-verify": "^1.1.0",
     "cross-env": "^5.1.3",
     "dotenv": "^5.0.1",
     "enzyme": "3.3.0",
@@ -50,6 +52,7 @@
     "nyc": "^12.0.2",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "16.2.0",
+    "version-changelog": "^3.1.0",
     "webpack-dev-server": "^2.11.1"
   }
 }
