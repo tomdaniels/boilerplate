@@ -40,6 +40,7 @@ A homemade boilerplate for React applications.
 ├── .babelrc
 ├── .editorconfig
 ├── .gitignore
+├── CHANGELOG.md
 ├── package.json
 ├── PULL_REQUEST_TEMPLATE.md
 ├── README.md
