@@ -50,13 +50,10 @@ A homemade boilerplate for React applications.
 
 ## How to use it
 
-For the time being, you need to clone the repo and manually adjust the files. To get it runnning as is you can simply run the following commands:
+Install the repo on your maschine:
 ```bash
-git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
-yarn install
-yarn watch
+npm i td-react-boilerplate
 ```
-
 
 
 1. Rename the directory within your local files (_instead of 'react-boilerplate'_)
@@ -65,6 +62,13 @@ yarn watch
 4. Start coding in [landing.js](https://github.com/tomdaniels/react-boilerplate/blob/master/src/components/landing.js).
 
 _maybe 5: I don't think there is any harm in not doing this, but if you create a repository update the [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) again. It doesn't happen automatically._
+
+To get it runnning as is you can simply run the following commands:
+```bash
+git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
+yarn install
+yarn watch
+```
 
 ## Testing?
 
