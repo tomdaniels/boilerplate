@@ -50,11 +50,10 @@ A homemade boilerplate for React applications.
 
 ## How to use it
 
-Install the repo on your machine:
+Download the file tree from Github.
 ```bash
-npm i td-react-boilerplate
+git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
 ```
-
 
 1. Rename the directory within your local files (_instead of 'react-boilerplate'_)
 2. `cd` into your new-file and make it your own (`rm -rf .git`)
@@ -63,9 +62,8 @@ npm i td-react-boilerplate
 
 _maybe 5: I don't think there is any harm in not doing this, but if you create a repository update the [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) again. It doesn't happen automatically._
 
-To get it runnning as is you can simply run the following commands:
+To get it runnning, simply run the following commands once it's been cloned:
 ```bash
-git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
 yarn install
 yarn watch
 ```
