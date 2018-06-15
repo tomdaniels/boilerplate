@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+.nyc_output/
 
 # misc
 .idea/
+
+# auto generated code
+dist/

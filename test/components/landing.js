@@ -1,15 +1,11 @@
-import Landing from '../../src/components/landing';
+import Landing from '../../src/js/components/landing';
 
 const shallow = enzyme.shallow;
 
-let wrapper;
-
-beforeEach(() => {
-  wrapper = shallow(<Landing />);
-});
-
 describe('landing.js', () => {
-  it('should render the component', () => {
-    expect(wrapper.find('.styles')).to.be.present();
+  describe('<Landing />', () => {
+    it.skip('has no tests', () => {
+      // See Enzyme documentation: https://github.com/airbnb/enzyme
+    });
   });
 });

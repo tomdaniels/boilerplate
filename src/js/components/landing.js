@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Landing = () => (
-    <div className="styles">
+    <div>
         Replace me with an app!
     </div>
 );
