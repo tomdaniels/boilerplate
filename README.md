@@ -50,19 +50,23 @@ A homemade boilerplate for React applications.
 
 ## How to use it
 
-Download the file tree from Github.
+First, install [Yeoman](http://yeoman.io) and [generator-td-react-boilerplate](https://www.npmjs.com/package/generator-td-react-boilerplate) using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+
 ```bash
-git clone git@github.com:tomdaniels/react-boilerplate.git && cd react-boilerplate
+npm install -g yo
+npm install -g generator-td-react-boilerplate
 ```
 
-1. Rename the directory within your local files (_instead of 'react-boilerplate'_)
-2. `cd` into your new-file and make it your own (`rm -rf .git`)
-3. Change the [app name](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L2) and [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) in package.json
-4. Start coding in [landing.js](https://github.com/tomdaniels/react-boilerplate/blob/master/src/components/landing.js).
+Then generate your new project:
 
-_maybe 5: I don't think there is any harm in not doing this, but if you create a repository update the [repository url](https://github.com/tomdaniels/react-boilerplate/blob/master/package.json#L5) again. It doesn't happen automatically._
+```bash
+yo td-react-boilerplate
+```
+### Development
 
-To get it runnning, simply run the following commands once it's been cloned:
+- PR's are welcomed! :)
+
+To get it runnning, just clone the repo and fire the below:
 ```bash
 yarn install
 yarn watch
