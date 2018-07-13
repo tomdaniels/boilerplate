@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
+
+## [2.3.5][] - 2018-07-13
 ### changed
 - Update README to include deprecation warning, and link to npm generator package.
 
@@ -35,7 +37,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Initial release
 
 
-[Unreleased]: https://github.com/tomdaniels/v1-boilerplate/compare/v2.3.4...HEAD
+[Unreleased]: https://github.com/tomdaniels/v1-boilerplate/compare/v2.3.5...HEAD
+[2.3.5]: https://github.com/tomdaniels/v1-boilerplate/compare/v2.3.4...v2.3.5
 [2.3.4]: https://github.com/tomdaniels/v1-boilerplate/compare/v2.3.3...v2.3.4
 [2.3.3]: https://github.com/tomdaniels/v1-boilerplate/compare/v2.3.2...v2.3.3
 [2.3.2]: https://github.com/tomdaniels/v1-boilerplate/compare/v2.3.1...v2.3.2
