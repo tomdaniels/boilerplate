@@ -1,6 +1,6 @@
 # react-boilerplate
 
-A homemade boilerplate for React applications.
+**DEPRECATED** Please use the [generator](https://www.npmjs.com/package/generator-td-react-boilerplate)
 
 ## Out of the box?
 

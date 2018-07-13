@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
+### changed
+- Update README to include deprecation warning, and link to npm generator package.
 
 ## [2.3.4][] - 2018-06-19
 ### Changed
